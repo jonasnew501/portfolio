@@ -16,6 +16,7 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
+| Unittest Training | A small project in which the usage of unittests with the library "pytest" in Python and CI via GitHub Actions is practiced | Python, Pytest, GitHub Actions, YAML | [Repo](https://github.com/jonasnew501/unittest_training) |
 | Tetris Game | Simple implementation of Tetris solely in NumPy (and controls using PyGame) as a practice project | Python, NumPy, PyGame | [Repo](https://github.com/jonasnew501/Tetris) |
 
 ---
