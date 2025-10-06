@@ -60,6 +60,9 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 <!-- ![Reinforcement Learning](https://img.shields.io/badge/RL-Deep%20Q--Learning,%50Deep%20Q--Learning-008080)   -->
 ---
 
+<!-- !
 ## 📫 Contact
 - Email: XXX.de
 ---
+
+-->
