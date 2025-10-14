@@ -46,7 +46,11 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 
 **Testing & CI**  
 ![PyTest](https://img.shields.io/badge/Testing-PyTest-46375B?logo=pytest&logoColor=white)  
+![Pytest-Mock](https://img.shields.io/badge/Testing-Pytest--Mock-6A5ACD?logo=pytest&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+
+**Code Formatting**  
+![Black](https://img.shields.io/badge/Auto%20Formatting-Black-000000?logo=python&logoColor=white)
 
 **Python Advanced Topics**  
 ![asyncio](https://img.shields.io/badge/Python-asyncio-3776AB?logo=python&logoColor=white)  
