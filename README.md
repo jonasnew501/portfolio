@@ -49,6 +49,9 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 ![Pytest-Mock](https://img.shields.io/badge/Testing-Pytest--Mock-6A5ACD?logo=pytest&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
+**Packaging & Deployment**  
+![PyInstaller](https://img.shields.io/badge/Build%20Tool-PyInstaller-3776AB?logo=python&logoColor=white)  
+
 **Code Formatting**  
 ![Black](https://img.shields.io/badge/Auto%20Formatting-Black-000000?logo=python&logoColor=white)
 
