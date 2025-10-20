@@ -7,8 +7,8 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 
 ## 🚀 About Me
 - 🎓 Background: "B.Sc. in Psychology, M.Sc. in Cognitive Systems, with a focus on AI and human-machine interaction."
-- 🛠️ Skills: Python, pandas, NumPy, OOP, ML basics, Git/GitHub
-- 🌱 Currently learning: Streamlit, concurrency in Python, CI with GitHub Actions
+- 🛠️ Skills: Python, pandas, NumPy, OOP, Deep Learning, ML basics, Git/GitHub
+- 🌱 Currently learning: CI with GitHub Actions, SQL, MySQL
 
 ---
 
@@ -16,10 +16,8 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| Unittest Training | A small project in which the usage of unittests with the library "pytest" in Python and CI via GitHub Actions is practiced | Python, Pytest, GitHub Actions, YAML | [Repo](https://github.com/jonasnew501/unittest_training) |
-<!--
-| Tetris Game | Simple implementation of Tetris solely in NumPy (and controls using PyGame) as a practice project | Python, NumPy, PyGame | [Repo](https://github.com/jonasnew501/Tetris) |
--->
+| Unittest Training | A toy project in which the usage of unittests with the library "pytest" and "pytest-mock" in Python and CI via GitHub Actions is practiced | Python, pytest, pytest-mock, GitHub Actions, YAML | [Repo](https://github.com/jonasnew501/unittest_training) |
+| Tetris Game | Implementation of Tetris solely in NumPy (and controls using Pygame). Unittests mostly for more complicated functions via "pytest" and "pytest-mock". Currently adding an RL-implementation (PPO) to try to master the game. | Python, NumPy, Pygame, pytest, pytest-mock, scikit-learn, PyTorch | [Repo](https://github.com/jonasnew501/tetris) |
 ---
 
 ## 🏷️ Tech Stack
@@ -32,7 +30,7 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 
 **Data Science & Machine Learning**  
 ![pandas](https://img.shields.io/badge/pandas-Data%20Wrangling-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing%2C%20Vectorized%20Operations-013243?logo=numpy&logoColor=white)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)
