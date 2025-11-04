@@ -14,11 +14,11 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 
 ## 📂 Projects
 
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| Unittest Training | A toy project in which the usage of unittests with the library "pytest" and "pytest-mock" in Python and CI via GitHub Actions is practiced | Python, pytest, pytest-mock, GitHub Actions, YAML | [Repo](https://github.com/jonasnew501/unittest_training) |
-| Task Manager CLI | Command-line task manager focusing on applying SOLID principles (SRP + OCP). Separation of concerns between CLI, service layer, and repository. Includes unit tests and packaging as an executable. | Python, OOP, SOLID, PyTest, PyInstaller | [Repo](https://github.com/jonasnew501/task-manager-cli) |
-| Tetris Game | Implementation of Tetris solely in NumPy (and controls using Pygame). Unittests mostly for more complicated functions via "pytest" and "pytest-mock". Currently adding an RL-implementation (PPO) to try to master the game. | Python, NumPy, Pygame, pytest, pytest-mock, scikit-learn, PyTorch | [Repo](https://github.com/jonasnew501/tetris) |
+| Project | Description | Tech | Link | Status (✅ = Completed, ⏳ = In progress / evolving) |
+|---------|-------------|------|------|------|
+| Unittest Training | A toy project in which the usage of unittests with the library "pytest" and "pytest-mock" in Python and CI via GitHub Actions is practiced | Python, pytest, pytest-mock, GitHub Actions, YAML | [Repo](https://github.com/jonasnew501/unittest_training) | ✅ |
+| Task Manager CLI | Command-line task manager focusing on applying SOLID principles (SRP + OCP). Separation of concerns between CLI, service layer, and repository. Includes unit tests and packaging as an executable. | Python, OOP, SOLID, PyTest, PyInstaller | [Repo](https://github.com/jonasnew501/task-manager-cli) | ⏳ |
+| Tetris Game | Implementation of Tetris solely in NumPy (and controls using Pygame). Unittests mostly for more complicated functions via "pytest" and "pytest-mock". Currently adding an RL-implementation (PPO) to try to master the game. | Python, NumPy, Pygame, pytest, pytest-mock, scikit-learn, PyTorch | [Repo](https://github.com/jonasnew501/tetris) | ⏳ |
 ---
 
 ## 🏷️ Tech Stack
