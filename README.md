@@ -28,6 +28,10 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 <!-- ![Java](https://img.shields.io/badge/Java-OOP-007396?logo=https://raw.githubusercontent.com/jonasnew501/portfolio/688e9376021241c4516c21cb34ca86dd7bb212bd/images/java_coffeeCup_logo.png&logoColor=white) -->
 <!-- ![Java](https://img.shields.io/badge/Java-OOP-007396?logo=https://raw.githubusercontent.com/jonasnew501/portfolio/main/images/java_coffeeCup_logo.png&logoColor=white) -->
 
+**Programming Paradigms**  
+![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-4CAF50)  
+![SOLID](https://img.shields.io/badge/Architecture-SOLID%20Principles-2E86C1)   
+
 **Data Science & Machine Learning**  
 ![pandas](https://img.shields.io/badge/pandas-Data%20Wrangling-150458?logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing%2C%20Vectorized%20Operations-013243?logo=numpy&logoColor=white)  
@@ -41,6 +45,7 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 ![VS Code](https://img.shields.io/badge/VS%20Code-IDE-007ACC?logo=visualstudiocode&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)  
 ![Anaconda](https://img.shields.io/badge/Anaconda-Package%20Management-44A833?logo=anaconda&logoColor=white)
+![CLI](https://img.shields.io/badge/UI-Command%20Line-000000?logo=windows-terminal&logoColor=white)  
 
 **Testing & CI**  
 ![PyTest](https://img.shields.io/badge/Testing-PyTest-46375B?logo=pytest&logoColor=white)  
@@ -58,7 +63,6 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 ![Streamlit](https://img.shields.io/badge/Python-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 **Other Topics Studied**  
-![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-4CAF50)  
 ![Threading](https://img.shields.io/badge/Python-Threading-795548)  
 ![Reinforcement Learning](https://img.shields.io/badge/RL-Deep%20Q--Learning%2C%20Policy%20Gradient%20Methods-008080)  
 ![Clean Code](https://img.shields.io/badge/Reading-Clean%20Code-000000)
