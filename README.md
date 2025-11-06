@@ -45,7 +45,7 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 ![GitHub](https://img.shields.io/badge/GitHub-Repos-181717?logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-IDE-007ACC?logo=visualstudiocode&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)  
-![Anaconda](https://img.shields.io/badge/Anaconda-Package%20Management-44A833?logo=anaconda&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-Package%20Management-44A833?logo=anaconda&logoColor=white)  
 ![CLI](https://img.shields.io/badge/UI-Command%20Line-000000?logo=windows-terminal&logoColor=white)  
 
 **Testing & CI**  
