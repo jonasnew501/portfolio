@@ -1,14 +1,15 @@
 # 👋 Hi, I’m Jonas
 
 Welcome to my GitHub portfolio!  
-Here you’ll find a selection of projects I built to practice, learn, and demonstrate my skills in **Python, data wrangling, and machine learning**, along with other programming topics I explore.
+
+Here you’ll find a selection of projects I built to both practice and demonstrate my skills in **Python, machine learning, and software-development**.
 
 ---
 
 ## 🚀 About Me
-- 🎓 Background: "B.Sc. in Psychology, M.Sc. in Cognitive Systems, with a focus on AI and human-machine interaction."
-- 🛠️ Skills: Python, pandas, NumPy, OOP, Deep Learning, ML basics, Git/GitHub
-- 🌱 Currently learning: CI with GitHub Actions, SQL, MySQL
+- 🎓 Background: B.Sc. in Psychology, M.Sc. in Cognitive Systems, with a focus on Python, Machine Learning, and human-machine interaction.
+- 🛠️ Focus on: Python, PyData-Stack, OOP, Deep Learning, ML, Git/GitHub, Clean Code
+- 🌱 Currently learning: SQL, MySQL
 
 ---
 
