@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jonas
+# Hi, I’m Jonas
 
 Welcome to my GitHub portfolio!  
 
@@ -6,21 +6,30 @@ Here you’ll find a selection of projects I built to both practice and demonstr
 
 ---
 
-## 🚀 About Me
+## About Me
 - 🎓 Background: B.Sc. in Psychology, M.Sc. in Cognitive Systems, with a focus on Python, Machine Learning, and human-machine interaction.
 - 🛠️ Focus on: Python, PyData-Stack, OOP, Deep Learning, ML, Git/GitHub, Clean Code
 - 🌱 Currently learning: SQL, MySQL
 
 ---
 
-## 📂 Projects
+## 📂 Main Projects
 
-| Project | Description | Tech | Link | Status (✅ = Completed, ⏳ = In progress / evolving) |
+| Project-name | Description | Tech | Link | Status (✅ = Completed, ⏳ = In progress / evolving) |
 |---------|-------------|------|------|------|
 | Unittest Training | A toy project in which the usage of unittests with the library "pytest" and "pytest-mock" in Python and CI via GitHub Actions is practiced | Python, pytest, pytest-mock, GitHub Actions, YAML | [Repo](https://github.com/jonasnew501/unittest_training) | ✅ |
 | Task Manager CLI | Command-line task manager focusing on applying SOLID principles (SRP + OCP). Separation of concerns between CLI, service layer, and repository. Includes unit tests and packaging as an executable. | Python, OOP, SOLID, PyTest, PyInstaller | [Repo](https://github.com/jonasnew501/task-manager-cli) | ⏳ |
 | Tetris Game | Implementation of Tetris solely in NumPy (and controls using Pygame). Unittests mostly for more complicated functions via "pytest" and "pytest-mock". Currently adding an RL-implementation (PPO) to try to master the game. | Python, NumPy, Pygame, pytest, pytest-mock, scikit-learn, PyTorch | [Repo](https://github.com/jonasnew501/tetris) | ⏳ |
 ---
+
+## 📂 Other Fun Projects
+
+| Project-name | Description | Tech | Link | Status (✅ = Completed, ⏳ = In progress / evolving) |
+|---------|-------------|------|------|------|
+| Stick Hero Automation | A small project using ppadb to connect to an Android-phone, automating the game "Stick Hero". | Python, ppadb, NumPy, Pillow | [Repo](https://github.com/jonasnew501/stick-hero-automation) | ✅ |
+---
+
+<br>
 
 ## 🏷️ Tech Stack
 
