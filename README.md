@@ -49,6 +49,9 @@ Here you’ll find a selection of projects I built to both practice and demonstr
 ![Anaconda](https://img.shields.io/badge/Anaconda-Package%20Management-44A833?logo=anaconda&logoColor=white)  
 ![CLI](https://img.shields.io/badge/UI-Command%20Line-000000?logo=windows-terminal&logoColor=white)  
 
+**Automation**  
+![ppadb](https://img.shields.io/badge/Automation-ppadb-3DDC84?logo=android&logoColor=white)
+
 **Testing & CI**  
 ![PyTest](https://img.shields.io/badge/Testing-PyTest-46375B?logo=pytest&logoColor=white)  
 ![Pytest-Mock](https://img.shields.io/badge/Testing-Pytest--Mock-6A5ACD?logo=pytest&logoColor=white)  
