@@ -7,9 +7,9 @@ Here you’ll find a selection of projects I built to both practice and demonstr
 ---
 
 ## About Me
-- 🎓 Background: B.Sc. in Psychology, M.Sc. in Cognitive Systems, with a focus on Python, Machine Learning, and human-machine interaction.
-- 🛠️ Focus on: Python, PyData-Stack, OOP, Deep Learning, ML, Git/GitHub, Clean Code
-- 🌱 Currently learning: SQL, MySQL
+- 🎓 Background: M.Sc. in Cognitive Systems, with a focus on Python, Machine Learning, and Backend-Systems. B.Sc. in Psychology.
+- 🛠️ Focus on: Python, PyData-Stack, OOP, Deep Learning, ML, FastAPI, Clean Code
+- 🌱 Currently learning: FastAPI, Docker, SQL, MySQL
 
 ---
 
@@ -49,6 +49,12 @@ Here you’ll find a selection of projects I built to both practice and demonstr
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)
+
+**Backend & Web APIs**  
+![FastAPI](https://img.shields.io/badge/FastAPI-REST%20APIs-009688?logo=fastapi&logoColor=white)  
+![HTTP](https://img.shields.io/badge/HTTP-Client%2FServer%20Model-005571)  
+![REST](https://img.shields.io/badge/API-RESTful%20Design-6DB33F)  
+![Uvicorn](https://img.shields.io/badge/ASGI-Uvicorn%20Server-222222)
 
 **Tools & Workflow**  
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)  
