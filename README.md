@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jonas
+# Hi, I’m Jonas
 
 Welcome to my GitHub portfolio!  
 Here you’ll find a selection of projects I built to practice, learn, and demonstrate my skills in **Software development**.
@@ -12,15 +12,25 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 
 ---
 
-## 📂 Projects
+## 📂 Main Projects
 
-| Project | Description | Tech | Link | Status (✅ = Completed, ⏳ = In progress / evolving) |
+| Project-name | Description | Tech | Link | Status (✅ = Completed, ⏳ = In progress / evolving) |
 |---------|-------------|------|------|------|
 | Tetris Game | Implementation of Tetris solely in NumPy (and controls using Pygame). Unittests mostly for more complicated functions via "pytest" and "pytest-mock". Currently adding an RL-implementation (PPO) to try to master the game. | Python, NumPy, Pygame, pytest, pytest-mock, scikit-learn, PyTorch | [Repo](https://github.com/jonasnew501/tetris) | ⏳ |
 | Unittest Training | A toy project in which the usage of unittests with the library "pytest" and "pytest-mock" in Python and CI via GitHub Actions is practiced | Python, pytest, pytest-mock, GitHub Actions, YAML | [Repo](https://github.com/jonasnew501/unittest_training) | ✅ |
 | Task Manager CLI | Command-line task manager focusing on applying SOLID principles (SRP + OCP). Separation of concerns between CLI, service layer, and repository. Includes unit tests and packaging as an executable. | Python, OOP, SOLID, PyTest, PyInstaller | [Repo](https://github.com/jonasnew501/task-manager-cli) | ⏳ |
 
 ---
+
+## 📂 Other Fun Projects
+
+| Project-name | Description | Tech | Link | Status (✅ = Completed, ⏳ = In progress / evolving) |
+|---------|-------------|------|------|------|
+| Stick Hero Automation | A small project using ppadb to connect to an Android-phone, automating the game "Stick Hero". | Python, ppadb, NumPy, Pillow | [Repo](https://github.com/jonasnew501/stick-hero-automation) | ✅ |
+| TicTacToe | A quick and dirty implementation of the classic game "TicTacToe" in Python | Python, NumPy | [Repo](https://github.com/jonasnew501/TicTacToe) | ✅ |
+---
+
+<br>
 
 ## 🏷️ Tech Stack
 
@@ -41,13 +51,22 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)
 
+**Backend & Web APIs**  
+![FastAPI](https://img.shields.io/badge/FastAPI-REST%20APIs-009688?logo=fastapi&logoColor=white)  
+![HTTP](https://img.shields.io/badge/HTTP-Client%2FServer%20Model-005571)  
+![REST](https://img.shields.io/badge/API-RESTful%20Design-6DB33F)  
+![Uvicorn](https://img.shields.io/badge/ASGI-Uvicorn%20Server-222222)
+
 **Tools & Workflow**  
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-Repos-181717?logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-IDE-007ACC?logo=visualstudiocode&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)  
-![Anaconda](https://img.shields.io/badge/Anaconda-Package%20Management-44A833?logo=anaconda&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-Package%20Management-44A833?logo=anaconda&logoColor=white)  
 ![CLI](https://img.shields.io/badge/UI-Command%20Line-000000?logo=windows-terminal&logoColor=white)  
+
+**Automation**  
+![ppadb](https://img.shields.io/badge/Automation-ppadb-3DDC84?logo=android&logoColor=white)
 
 **Testing & CI**  
 ![PyTest](https://img.shields.io/badge/Testing-PyTest-46375B?logo=pytest&logoColor=white)  
