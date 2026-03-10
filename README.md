@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Jonas
 
 Welcome to my GitHub portfolio!  
-Here you’ll find a selection of projects I built to practice, learn, and demonstrate my skills in **Python, data wrangling, and machine learning**, along with other programming topics I explore.
+Here you’ll find a selection of projects I built to practice, learn, and demonstrate my skills in **Software development**.
 
 ---
 
 ## 🚀 About Me
 - 🎓 Background: "B.Sc. in Psychology, M.Sc. in Cognitive Systems, with a focus on AI and human-machine interaction."
-- 🛠️ Skills: Python, pandas, NumPy, OOP, Deep Learning, ML basics, Git/GitHub
-- 🌱 Currently learning: CI with GitHub Actions, SQL, MySQL
+- 🛠️ Skills: Python, pandas, NumPy, OOP, Deep Learning, Machine-Learning, Git/GitHub
+- 🌱 Currently learning: SQL, MySQL
 
 ---
 
@@ -16,9 +16,10 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 
 | Project | Description | Tech | Link | Status (✅ = Completed, ⏳ = In progress / evolving) |
 |---------|-------------|------|------|------|
+| Tetris Game | Implementation of Tetris solely in NumPy (and controls using Pygame). Unittests mostly for more complicated functions via "pytest" and "pytest-mock". Currently adding an RL-implementation (PPO) to try to master the game. | Python, NumPy, Pygame, pytest, pytest-mock, scikit-learn, PyTorch | [Repo](https://github.com/jonasnew501/tetris) | ⏳ |
 | Unittest Training | A toy project in which the usage of unittests with the library "pytest" and "pytest-mock" in Python and CI via GitHub Actions is practiced | Python, pytest, pytest-mock, GitHub Actions, YAML | [Repo](https://github.com/jonasnew501/unittest_training) | ✅ |
 | Task Manager CLI | Command-line task manager focusing on applying SOLID principles (SRP + OCP). Separation of concerns between CLI, service layer, and repository. Includes unit tests and packaging as an executable. | Python, OOP, SOLID, PyTest, PyInstaller | [Repo](https://github.com/jonasnew501/task-manager-cli) | ⏳ |
-| Tetris Game | Implementation of Tetris solely in NumPy (and controls using Pygame). Unittests mostly for more complicated functions via "pytest" and "pytest-mock". Currently adding an RL-implementation (PPO) to try to master the game. | Python, NumPy, Pygame, pytest, pytest-mock, scikit-learn, PyTorch | [Repo](https://github.com/jonasnew501/tetris) | ⏳ |
+
 ---
 
 ## 🏷️ Tech Stack
