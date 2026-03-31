@@ -6,7 +6,7 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 ---
 
 ## 🚀 About Me
-- 🎓 Background: M.Sc. in Cognitive Systems, with a focus on AI and human-machine interaction.  B.Sc. in Psychology.
+- 🎓 Background: M.Sc. in Cognitive Systems, with a focus on AI and human-machine interaction.
 - 🛠️ Skills: Python, PyData Stack, OOP, Deep Learning, Machine-Learning, Git/GitHub, Docker
 - 🌱 Currently learning: SQL, MySQL
 
