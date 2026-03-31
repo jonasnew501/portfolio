@@ -6,8 +6,8 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 ---
 
 ## 🚀 About Me
-- 🎓 Background: "B.Sc. in Psychology, M.Sc. in Cognitive Systems, with a focus on AI and human-machine interaction."
-- 🛠️ Skills: Python, pandas, NumPy, OOP, Deep Learning, Machine-Learning, Git/GitHub
+- 🎓 Background: M.Sc. in Cognitive Systems, with a focus on AI and human-machine interaction. B.Sc. in Psychology.
+- 🛠️ Skills: Python, PyData Stack, OOP, Deep Learning, Machine-Learning, Git/GitHub, Docker
 - 🌱 Currently learning: SQL, MySQL
 
 ---
@@ -74,6 +74,7 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 **Packaging & Deployment**  
+![Docker](https://img.shields.io/badge/Containerization-Docker-2496ED?logo=docker&logoColor=white)  
 ![PyInstaller](https://img.shields.io/badge/Build%20Tool-PyInstaller-3776AB?logo=python&logoColor=white)  
 
 **Code Formatting**  
