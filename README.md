@@ -22,12 +22,13 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 
 ---
 
-## 📂 Other Fun Projects
+## 📂 Fun Projects
 
 | Project-name | Description | Tech | Link | Status (✅ = Completed, ⏳ = In progress / evolving) |
 |---------|-------------|------|------|------|
 | Stick Hero Automation | A small project using ppadb to connect to an Android-phone, automating the game "Stick Hero". | Python, ppadb, NumPy, Pillow | [Repo](https://github.com/jonasnew501/stick-hero-automation) | ✅ |
 | TicTacToe | A quick and dirty implementation of the classic game "TicTacToe" in Python | Python, NumPy | [Repo](https://github.com/jonasnew501/TicTacToe) | ✅ |
+| Wattage-Reader | A small script reading wattage-data (output-power) output by the Corsair iCUE-software, displaying descriptive statistics and a plot. | Python, NumPy | [Repo](https://github.com/jonasnew501/Wattage-Reader) | ✅ |
 ---
 
 <br>
