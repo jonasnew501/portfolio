@@ -88,7 +88,8 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 **Other Topics Studied**  
 ![Threading](https://img.shields.io/badge/Python-Threading-795548)  
 ![Reinforcement Learning](https://img.shields.io/badge/RL-Deep%20Q--Learning%2C%20Policy%20Gradient%20Methods-008080)  
-![Clean Code](https://img.shields.io/badge/Reading-Clean%20Code-000000)
+![Reading](https://img.shields.io/badge/Reading-"Clean%20Code"%20by%20Robert%20C.%20Martin-000000)  
+![Reading](https://img.shields.io/badge/Reading-"Code:%20The%20Hidden%20Language%20of%20Computer%20Hardware%20and%20Software"%20by%20Charles%20Petzold-000000)
 
 <!-- ![Reinforcement Learning](https://img.shields.io/badge/RL-Deep%20Q--Learning,%50Deep%20Q--Learning-008080)   -->
 ---
