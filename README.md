@@ -5,10 +5,10 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 
 ---
 
-## 🚀 About Me
-- 🎓 Background: M.Sc. in Cognitive Systems, with a focus on AI and human-machine interaction.
+## About Me
+- 🎓 Background: M.Sc. in Cognitive Systems, with a focus on Python-Programming and AI, especially Deep Learning.
 - 🛠️ Skills: Python, PyData Stack, OOP, Deep Learning, Machine-Learning, Git/GitHub, Docker
-- 🌱 Currently learning: SQL, MySQL
+- 🌱 Currently learning: SQL, PostgreSQL
 
 ---
 
@@ -27,7 +27,7 @@ Here you’ll find a selection of projects I built to practice, learn, and demon
 | Project-name | Description | Tech | Link | Status (✅ = Completed, ⏳ = In progress / evolving) |
 |---------|-------------|------|------|------|
 | Stick Hero Automation | A small project using ppadb to connect to an Android-phone, automating the game "Stick Hero". | Python, ppadb, NumPy, Pillow | [Repo](https://github.com/jonasnew501/stick-hero-automation) | ✅ |
-| TicTacToe | A quick and dirty implementation of the classic game "TicTacToe" in Python | Python, NumPy | [Repo](https://github.com/jonasnew501/TicTacToe) | ✅ |
+| TicTacToe | A quick implementation of the classic game "TicTacToe" in Python | Python, NumPy | [Repo](https://github.com/jonasnew501/TicTacToe) | ✅ |
 | Wattage-Reader | A small script reading wattage-data (output-power) output by the Corsair iCUE-software, displaying descriptive statistics and a plot. | Python, NumPy | [Repo](https://github.com/jonasnew501/Wattage-Reader) | ✅ |
 ---
 
